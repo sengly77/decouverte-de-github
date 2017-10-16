@@ -1,2 +1,2 @@
 test de
-contribution sur GtHb
+contribution sur Github. C'est une plateforme qui permet de partager et gérer du code informatique.
